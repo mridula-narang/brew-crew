@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "681578119721",
+    "project_id": "brew-crew-71684",
+    "storage_bucket": "brew-crew-71684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681578119721:android:6db414f6f6dcb3ee049238",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681578119721-lgpo7mpqt4cn8rm1oor83vveoj3mu20f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCal3EahzAOePRfBLLHlBT0fa5v_qW6AyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681578119721-lgpo7mpqt4cn8rm1oor83vveoj3mu20f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681578119721-19kklmg75fdaj1f269n1e3k8bfc3r1o8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brewCrew.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681578119721:android:5805732a0a5faed4049238",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681578119721-lgpo7mpqt4cn8rm1oor83vveoj3mu20f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCal3EahzAOePRfBLLHlBT0fa5v_qW6AyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681578119721-lgpo7mpqt4cn8rm1oor83vveoj3mu20f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681578119721-19kklmg75fdaj1f269n1e3k8bfc3r1o8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.brewCrew.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
